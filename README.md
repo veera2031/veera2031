@@ -49,13 +49,6 @@ Beyond development, I love sharing knowledge and engaging with the tech communit
 
 ---
 
-## 🏆 GitHub Trophies
-🎨 *Theme: darkhub*
-
-[![GitHub Profile Trophies](https://github-profile-trophy.vercel.app/?username=veera2031&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
 ## 📊 GitHub Analytics
 🎨 *Theme: tokyonight*
 
@@ -75,9 +68,7 @@ Beyond development, I love sharing knowledge and engaging with the tech communit
 Get in touch or follow my content updates through any of the platforms below!
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/veeranjaneyulur)
-[![YouTube](https://img.shields.io/badge/YouTube-🎥-red?style=for-the-badge)](https://github.com/veera2031)
-[![Medium](https://img.shields.io/badge/Medium-✍️-black?style=for-the-badge)](https://github.com/veera2031)
-[![Instagram](https://img.shields.io/badge/Instagram-📸-purple?style=for-the-badge)](https://github.com/veera2031)
+[![Medium](https://img.shields.io/badge/Medium-✍️-black?style=for-the-badge)]
 
 ---
 
