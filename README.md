@@ -1,4 +1,4 @@
-# Hi there, I'm Veeranjaneyulu Rajamahendravarapu! 👋 ![Visitor Counter](https://komarev.com/ghvc/?username=veera2031&color=blueviolet&style=flat-square)
+# Hi there, I'm Veeranjaneyulu Rajamahendravarapu! 👋
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=Software+Engineer;AI+%26+ML+Enthusiast;Full+Stack+Developer" alt="Typing SVG" />
